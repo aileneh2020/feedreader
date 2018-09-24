@@ -1,5 +1,5 @@
 # FEEDREADER FOR FRONT-END NANODEGREE
-=====================================
+
 
 ## PROJECT OVERVIEW
 
